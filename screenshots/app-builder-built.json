@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "MHD+ · Cine y series",
+      "hasCanvas": false,
+      "bodyTextLen": 704,
+      "bodyTextHash": "150b8b39b96a0ec4b14a2774b24a21ea6ab8f5e3d961fe64c277f54bbb1d61b8",
+      "bodyTextPrefix": "Saltar al contenido MHD+ Inicio Películas Series Géneros Favorit",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "MHD+ · Cine y series",
+      "hasCanvas": false,
+      "bodyTextLen": 699,
+      "bodyTextHash": "7feb543954991ae9d20c0dc96f615460cc65c64220e7c2793b12e28897b81931",
+      "bodyTextPrefix": "Saltar al contenido MHD+ Buscar películas, series o personas DES",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}

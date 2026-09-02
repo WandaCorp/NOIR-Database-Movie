@@ -1,0 +1,1 @@
+import{s as e}from"./link-Ddo_aF5D.js";import{i as t}from"./button-kPe3xukX.js";var n=e();function r({className:e}){return(0,n.jsx)(`div`,{className:t(`skeleton rounded-md`,e),"aria-hidden":`true`})}export{r as t};

@@ -1,0 +1,1 @@
+function e(e){return{tipo:e,sort:`popularity.desc`,year:``,genre:``,pageMode:`infinite`,page:1}}export{e as t};

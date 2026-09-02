@@ -1,0 +1,1 @@
+import{s as e}from"./link-Ddo_aF5D.js";import{t}from"./catalog-view-BH9pPuk6.js";import{a as n}from"./index-CYuEaaw4.js";var r=e();function i(){let e=n.useSearch(),i=n.useNavigate();return(0,r.jsx)(t,{type:`tv`,title:`Series`,description:`Series populares, en emisión y mejor valoradas, según The Movie Database.`,filters:e,onFilters:e=>void i({search:e})})}export{i as component};
